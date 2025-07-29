@@ -1,20 +1,20 @@
 # The Complete Guide to C++ Development in VSCode on Linux
 
 ## Table of Contents
-1. [Why VSCode is Not an IDE and What That Means](#vscode-ide)
-2. [Understanding C++ Compilation: The Complete Process](#compilation-process)
-3. [Compilers: GCC vs Clang - Making the Right Choice](#compilers-gcc-clang)
-4. [The Four-Stage Compilation Pipeline](#compilation-pipeline)
-5. [Library Linking: Static vs Dynamic Explained](#library-linking)
-6. [VSCode Configuration Files: Purpose and Deep Dive](#vscode-config-files)
-7. [Compilation Flags: Every Flag Has a Purpose](#compilation-flags)
-8. [Build Systems: From Manual to Make to CMake](#build-systems)
-9. [Complete Real-World Project Setup](#complete-project-setup)
-10. [Advanced Debugging and Development Workflow](#debugging-workflow)
+1. [Why VSCode is Not an IDE](#why-vscode-is-not-an-ide)
+2. [Understanding C++ Compilation](#understanding-c-compilation) 
+3. [Compilers: GCC vs Clang](#compilers-gcc-vs-clang)
+4. [The Four-Stage Compilation Pipeline](#four-stage-compilation-pipeline)
+5. [Library Linking](#library-linking)
+6. [VSCode Configuration Files](#vscode-configuration-files)
+7. [Compilation Flags](#compilation-flags)
+8. [Build Systems](#build-systems)
+9. [Complete Project Setup](#complete-project-setup)
+10. [Advanced Debugging](#advanced-debugging)
 
 ---
 
-## Why VSCode is Not an IDE (and What That Means for You) {#vscode-ide}
+## Why VSCode is Not an IDE {#why-vscode-is-not-an-ide}
 
 ### The Fundamental Difference
 
@@ -71,7 +71,7 @@ sudo apt install git             # Version control
 
 ---
 
-## Understanding C++ Compilation: The Complete Process {#compilation-process}
+## Understanding C++ Compilation {#understanding-c-compilation}
 
 ### The Reality of C++ Compilation
 
