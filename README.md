@@ -1,3 +1,5 @@
+(Readme generated with AI)
+
 # The Complete Guide to C++ Development in VSCode on Linux
 
 ## Table of Contents
